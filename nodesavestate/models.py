@@ -6,4 +6,4 @@ class State(models.Model):
     node_id = models.TextField()
 
     class Meta:
-        db_table = 'state'
+        db_table = "state"
